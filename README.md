@@ -1,6 +1,6 @@
 # github-actions-nodejs-cicd
 
-오픈소스 소프트웨어 과목 실습을 위한 Fork
+오픈소스 소프트웨어 과제
 
 EC2에 Git Action Runner를 설치한 후, 자동으로 Node.js 응용을 EC2에 배포합니다.
 
